@@ -6,10 +6,22 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.1",
     "@testing-library/user-event": "^12.2.2",
+    "axios": "^0.19.2",
+    "classnames": "^2.2.6",
+    "css-element-queries": "^1.2.1",
+    "js-cookie": "^2.2.1",
+    "moment": "^2.27.0",
+    "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
     "react-scripts": "4.0.0",
-    "web-vitals": "^0.2.4"
+    "react-router-dom": "^5.2.0",
+    "react-transition-group": "^4.4.1",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0",
+    "validator": "^13.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
